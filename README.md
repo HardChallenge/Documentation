@@ -1,2 +1,2 @@
-# Documentation
-This is the place where all documentation of projects can be seen.
+# Project Documentation
+This is the place where all documentations of personal projects can be seen.
